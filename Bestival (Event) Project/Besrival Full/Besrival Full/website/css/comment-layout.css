@@ -1,0 +1,60 @@
+
+
+.feedback-body{
+    background: #252F31;
+}
+a img{
+    border: none;
+}
+.wrapper{
+    background: #FFF;
+    max-width: 1200px;
+    border: 1px solid #cccccc;
+    margin: 0 auto 0 auto;
+    height: auto;
+}
+.page-data{
+    width: auto;
+    height: 50px;
+    color: #666;
+    margin: 10px;
+    border-bottom: 1px solid #cccccc;
+}
+.comment-wrapper{
+    width: auto;
+    height: auto;
+    margin: 10px;
+    border: 1px solid #cccccc;
+    color: #444;
+}
+
+@media (max-width:463px)
+{
+    .page-data h1{
+        font-size: 23px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
