@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ui.MenuActivity">
+
+    <item
+        android:id="@+id/over_rsr"
+        android:icon="@drawable/main_i"
+        android:title="@string/over_rsr_info"
+        app:showAsAction="always" />
+
+</menu>

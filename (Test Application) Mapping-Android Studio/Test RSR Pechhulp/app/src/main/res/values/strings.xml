@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Test RSR Pechhulp</string>
+
+    <string name="google_maps_API_key">AIzaSyCkaTtxKTEe_FDBoq202xz79vG1_twjM_A</string>
+    <string name="bel_rsr_nu">Bel RSR nu</string>
+
+    //Dialog main activity
+    <string name="dialog_action_dismiss">BEVESTIG</string>
+    <string name="dialog_title">Privacybeleid</string>
+    <string name="dialog_message">Om deze app te gebruiken, dient u het <a href="https://www.rsr.nl/index.php?page=privacy-wetgeving">privacybeleid</a> te accepteren.</string>
+
+    //about rsr
+    <string name="about_rsr_pechhulp">About RSR Pechhulp</string>
+    <string name="over_rsr_message">Met de hulpmiddelen van RSR blijft u mobile.
+        RSR is dé leverancier van hulpmiddelen de regio Noordoost-Nederland.
+        Gedegen kennis en jarenlange ervaring zit in ons DNA verweven en leidt tot het beste advies.
+        \n\nWilt u meer weten over onze producten en diensten, kijk dan op <a href="http://www.rsr.nl/">www.rsr.nl</a> of bezoek onze showrooms is Silvolde en Nieuwleusen.
+        We zijn iedere werkdag geopend van 8:00 tot 17:00 uur.
+        Hier kunt u diverse hulpmiddelen uitproberen en rusting bekijken wat goed bij uw situatie aansluit.
+        Samen met u zoeken we naar het hulpmiddel dat bij u past. RSR maakt mensen mobiel.</string>
+    <string name="rsr_pechhulp">RSR Pechhulp</string>
+    <string name="over_rsr">Over RSR</string>
+    <string name="over_rsr_info">Over RSR Info</string>
+    <string name="annuleren_call_dialog">Annuleren</string>
+    <string name="btn_dialog_bel_nu">Bel nu</string>
+    <string name="title_call_dialog_belkosten">Belkosten</string>
+    <string name="text_call_dialog">Voor dit nummer betaalt u uw geruikelijke belkosten.</string>
+    <string name="title_call_dialog_tablet">Neem contact op met RSR Nederland</string>
+    <string name="phoneNum_call_dialog_tablet">0900-7788990</string>
+    <string name="rsr_phonenumber">09007788990</string>
+
+</resources>
